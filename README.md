@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hopemoh4283
-- 👀 I’m interested in iOS Application Development
+- 👋 Hi, I’m Mohammad
+- 👀 I’m interested in Web Development, iOS Application Development, AI, and Programming in general
 - 🌱 My Skills:  Python, HTML, CSS, Javascript
 - 🔄 Currently learning: Swift, SwiftUI
 
