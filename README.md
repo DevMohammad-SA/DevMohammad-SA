@@ -1,34 +1,44 @@
-# 👋 Hi there! I'm Mohammad  
+# Mohammad Albuainain | Software Developer 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevMohammad-SA&color=blue&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/DevMohammad-SA?style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/DevMohammad-SA?style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=DevMohammad-SA&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/DevMohammad-SA?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/DevMohammad-SA?style=flat-square)
+
+## About Me 👨‍💻
+Passionate software developer with a love for web development, iOS applications, and artificial intelligence. I thrive on exploring new technologies and solving complex problems through elegant solutions.
+
+## Tech Stack 🛠️
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+### Frameworks & Tools
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+
+### Currently Learning 📚
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+
+## Current Focus 🎯
+- Developing robust web applications
+- Creating intuitive iOS experiences
+- Mastering Java programming
+- Contributing to open-source projects
+
+## GitHub Analytics ⚡
+<p align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevMohammad-SA&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohammad-SA&layout=compact&theme=tokyonight"/>
+</p>
+
+## Let's Connect 🤝
+I'm always interested in collaborating on innovative projects and connecting with fellow developers. Feel free to reach out!
 
 ---
-
-👀 **About Me:**  
-I'm passionate about Web Development, iOS Application Development, Artificial Intelligence, and all things Programming! I love exploring new technologies and solving challenging problems.
-
-🌱 **Skills:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)  
-- **Currently Learning:** ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-1572B6?style=flat-square)  
-
-🔄 **What I’m up to:**  
-- Building exciting projects in web and iOS development  
-- Diving deeper into SwiftUI to craft beautiful, responsive UIs  
-
----
-
-📊 **My GitHub Stats:**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohammad-SA&layout=compact&theme=vue-dark)](https://github.com/DevMohammad-SA/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMohammad-SA&show_icons=true&theme=vue-dark)
-
----
-
-✨ This repository is ✨ special ✨ because it showcases my growth and journey in the tech world.  
-Feel free to connect and collaborate on cool projects!
+<p align="center">
+ <i>✨ Building the future, one commit at a time ✨</i>
+</p>
