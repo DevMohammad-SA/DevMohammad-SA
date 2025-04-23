@@ -42,3 +42,4 @@ I'm always interested in collaborating on innovative projects and connecting wit
 <p align="center">
  <i>✨ Building the future, one commit at a time ✨</i>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=devmohammad-sa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
