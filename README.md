@@ -9,10 +9,16 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3775A9?style=flat-square&logo=pypi&logoColor=white)
 
 I'm not just a developer; I'm someone who's deeply passionate about technology in all its forms. Currently pursuing my Computer Science degree, I'm constantly learning and experimenting with new technologies and approaches to solving problems through code.
 
@@ -36,10 +42,10 @@ A command-line interface chatbot powered by Cohere's language models, demonstrat
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python (primary), JavaScript, Java, HTML, CSS
+- **Languages**: Python (primary), JavaScript, Java, HTML, CSS, Swift, SQL, Bash
 - **Frameworks/Libraries**: Flask, Streamlit
-- **Databases**: PostgreSQL, SQLite
-- **Tools**: Git, Neovim
+- **Databases**: PostgreSQL, SQLite, MySQL
+- **Tools**: Git, Neovim, VS Code, pip
 - **Operating System**: Arch Linux
 
 ## 📚 Always Learning
