@@ -2,7 +2,7 @@
 
 ## 💻 Tech Enthusiast | Computer Science Student | Problem Solver
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ I'm not just a developer; I'm someone who's deeply passionate about technology i
 
 Python is my language of choice, but I believe in using the right tool for the job, which has led me to become proficient in various languages and frameworks.
 
-As an Arch Linux enthusiast, I value customization, efficiency, and deep understanding of the systems I work with. This philosophy extends to my development approach – I don't just make things work; I strive to understand why and how they work.
+As a Linux enthusiast, I value customization, efficiency, and deep understanding of the systems I work with. This philosophy extends to my development approach – I don't just make things work; I strive to understand why and how they work.
 
 ## 🚀 Featured Projects
 
@@ -43,10 +43,10 @@ A command-line interface chatbot powered by Cohere's language models, demonstrat
 ## 🔧 Technologies & Tools
 
 - **Languages**: Python (primary), JavaScript, Java, HTML, CSS, Swift, SQL, Bash
-- **Frameworks/Libraries**: Flask, Streamlit
+- **Frameworks/Libraries**: Django (primary), Flask, Streamlit
 - **Databases**: PostgreSQL, SQLite, MySQL
 - **Tools**: Git, Neovim, VS Code, pip
-- **Operating System**: Arch Linux
+- **Operating System**: Manjaro Linux
 
 ## 📚 Always Learning
 
