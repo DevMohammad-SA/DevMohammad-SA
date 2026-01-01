@@ -2,7 +2,7 @@
 
 ## 💻 Tech Enthusiast | Computer Science Student | Problem Solver
 
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,8 +45,8 @@ A command-line interface chatbot powered by Cohere's language models, demonstrat
 - **Languages**: Python (primary), JavaScript, Java, HTML, CSS, Swift, SQL, Bash
 - **Frameworks/Libraries**: Django (primary), Flask, Streamlit
 - **Databases**: PostgreSQL, SQLite, MySQL
-- **Tools**: Git, Neovim, VS Code, pip
-- **Operating System**: Manjaro Linux
+- **Tools**: Git, Neovim, Docker, VS Code, pip
+- **Operating System**: Arch Linux
 
 ## 📚 Always Learning
 
