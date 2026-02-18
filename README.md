@@ -33,8 +33,8 @@ I value clean workflows (Neovim + terminal), maintainable code, and projects tha
 
 ### Linux Workflow
 - [dotfiles](https://github.com/DevMohammad-SA/dotfiles) — My development environment configuration (Neovim, Zsh, Tmux, scripts).
-
 - [arch_system_maintenance](https://github.com/DevMohammad-SA/arch_system_maintenance) — Bash automation script for Arch Linux maintenance tasks.
+- [debian-system-maintenance](https://github.com/DevMohammad-SA/debian-system-maintenance) — Bash automation script for Debian (and Debian based Linux distros) maintenance tasks.
 
 ---
 
