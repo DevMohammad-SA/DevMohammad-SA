@@ -11,7 +11,7 @@ I write about all of it, in Arabic.
 
 ## Writing
 
-**[blog.devmohammad.com](https://blog.devmohammad.me)** — Arabic technical writing on Linux, self-hosting, privacy, and the Fediverse. Nearly all of this material exists only in English; I'm filling part of that gap.
+**[blog.devmohammad.me](https://blog.devmohammad.me)** — Arabic technical writing on Linux, self-hosting, privacy, and the Fediverse. Nearly all of this material exists only in English; I'm filling part of that gap.
 
 ---
 
@@ -91,6 +91,6 @@ Bash automation for keeping Arch and Debian machines healthy — updates, orphan
 
 ## Elsewhere
 
-[![Blog](https://img.shields.io/badge/Blog-blog.devmohammad.com-1793D1?style=flat-square&logo=rss&logoColor=white)](https://blog.devmohammad.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.devmohammad.me-1793D1?style=flat-square&logo=rss&logoColor=white)](https://blog.devmohammad.me)
 [![X](https://img.shields.io/badge/@DevMohammad__SA-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DevMohammad_SA)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/devmohammad_sa)
